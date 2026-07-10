@@ -1,0 +1,1205 @@
+2026-07-10 11:54:40.673 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-0, s5nmw9ankp5rm3r7pt3r-sub, 0] , ConsumerStatsImpl (numBytesRecieved_ = 0, totalNumBytesRecieved_ = 0, receivedMsgMap_ = {}, ackedMsgMap_ = {}, totalReceivedMsgMap_ = {}, totalAckedMsgMap_ = {})
+2026-07-10 11:54:40.673 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-1, s5nmw9ankp5rm3r7pt3r-sub, 1] , ConsumerStatsImpl (numBytesRecieved_ = 500896, totalNumBytesRecieved_ = 500896, receivedMsgMap_ = {[Key: Ok, Value: 1000], }, ackedMsgMap_ = {[Key: {Result: Ok, ackType: 0}, Value: 200], }, totalReceivedMsgMap_ = {[Key: Ok, Value: 1000], }, totalAckedMsgMap_ = {[Key: {Result: Ok, ackType: 0}, Value: 200], })
+2026-07-10 11:54:40.673 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-2, s5nmw9ankp5rm3r7pt3r-sub, 2] , ConsumerStatsImpl (numBytesRecieved_ = 745736, totalNumBytesRecieved_ = 745736, receivedMsgMap_ = {[Key: Ok, Value: 1500], }, ackedMsgMap_ = {[Key: {Result: Ok, ackType: 0}, Value: 629], }, totalReceivedMsgMap_ = {[Key: Ok, Value: 1500], }, totalAckedMsgMap_ = {[Key: {Result: Ok, ackType: 0}, Value: 629], })
+2026-07-10 11:54:40.673 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-3, s5nmw9ankp5rm3r7pt3r-sub, 3] , ConsumerStatsImpl (numBytesRecieved_ = 0, totalNumBytesRecieved_ = 0, receivedMsgMap_ = {}, ackedMsgMap_ = {}, totalReceivedMsgMap_ = {}, totalAckedMsgMap_ = {})
+2026-07-10 11:54:40.673 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-4, s5nmw9ankp5rm3r7pt3r-sub, 4] , ConsumerStatsImpl (numBytesRecieved_ = 0, totalNumBytesRecieved_ = 0, receivedMsgMap_ = {}, ackedMsgMap_ = {}, totalReceivedMsgMap_ = {}, totalAckedMsgMap_ = {})
+2026-07-10 11:54:40.673 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-5, s5nmw9ankp5rm3r7pt3r-sub, 5] , ConsumerStatsImpl (numBytesRecieved_ = 497804, totalNumBytesRecieved_ = 497804, receivedMsgMap_ = {[Key: Ok, Value: 1000], }, ackedMsgMap_ = {[Key: {Result: Ok, ackType: 0}, Value: 301], }, totalReceivedMsgMap_ = {[Key: Ok, Value: 1000], }, totalAckedMsgMap_ = {[Key: {Result: Ok, ackType: 0}, Value: 301], })
+2026-07-10 11:54:40.673 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-6, s5nmw9ankp5rm3r7pt3r-sub, 6] , ConsumerStatsImpl (numBytesRecieved_ = 0, totalNumBytesRecieved_ = 0, receivedMsgMap_ = {}, ackedMsgMap_ = {}, totalReceivedMsgMap_ = {}, totalAckedMsgMap_ = {})
+2026-07-10 11:54:40.673 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-7, s5nmw9ankp5rm3r7pt3r-sub, 7] , ConsumerStatsImpl (numBytesRecieved_ = 0, totalNumBytesRecieved_ = 0, receivedMsgMap_ = {}, ackedMsgMap_ = {}, totalReceivedMsgMap_ = {}, totalAckedMsgMap_ = {})
+2026-07-10 11:54:40.674 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-8, s5nmw9ankp5rm3r7pt3r-sub, 8] , ConsumerStatsImpl (numBytesRecieved_ = 0, totalNumBytesRecieved_ = 0, receivedMsgMap_ = {}, ackedMsgMap_ = {}, totalReceivedMsgMap_ = {}, totalAckedMsgMap_ = {})
+2026-07-10 11:54:40.674 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-9, s5nmw9ankp5rm3r7pt3r-sub, 9] , ConsumerStatsImpl (numBytesRecieved_ = 0, totalNumBytesRecieved_ = 0, receivedMsgMap_ = {}, ackedMsgMap_ = {}, totalReceivedMsgMap_ = {}, totalAckedMsgMap_ = {})
+2026-07-10 11:54:40.674 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\stats\ConsumerStatsImpl:64 | Consumer [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-10, s5nmw9ankp5rm3r7pt3r-sub, 10] , ConsumerStatsImpl (numBytesRecieved_ = 0, totalNumBytesRecieved_ = 0, receivedMsgMap_ = {}, ackedMsgMap_ = {}, totalReceivedMsgMap_ = {}, totalAckedMsgMap_ = {})
+2026-07-10 11:54:40,690 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:40,691 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2275
+2026-07-10 11:54:40,691 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2275.0 field=voltage value=2275.0 unit=V
+2026-07-10 11:54:40,975 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:41,281 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:41,281 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=617
+2026-07-10 11:54:41,281 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=617.0 field=current value=617.0 unit=A
+2026-07-10 11:54:41,569 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:41,852 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:41,853 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=617
+2026-07-10 11:54:41,853 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=617.0 field=current value=617.0 unit=A
+2026-07-10 11:54:42,146 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:42,452 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:42,453 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePower value=136
+2026-07-10 11:54:42,453 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=ActivePower raw=136.0 field=active_power value=136.0 unit=W
+2026-07-10 11:54:42,756 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:43,079 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:43,079 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePowerA value=136
+2026-07-10 11:54:43,080 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=ActivePowerA raw=136.0 field=active_power value=136.0 unit=W
+2026-07-10 11:54:43,391 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:43,726 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:43,726 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2274
+2026-07-10 11:54:43,726 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2274.0 field=voltage value=2274.0 unit=V
+2026-07-10 11:54:44,047 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:44,327 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:44,327 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2302
+2026-07-10 11:54:44,327 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2302.0 field=voltage value=2302.0 unit=V
+2026-07-10 11:54:44,613 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:44,956 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:44,957 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2283
+2026-07-10 11:54:44,957 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2283.0 field=voltage value=2283.0 unit=V
+2026-07-10 11:54:45,282 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:45,568 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:45,569 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=616
+2026-07-10 11:54:45,569 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:54:45,878 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:46,163 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:46,164 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=616
+2026-07-10 11:54:46,164 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:54:46,447 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:46,733 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:46,733 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePowerA value=135
+2026-07-10 11:54:46,734 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=ActivePowerA raw=135.0 field=active_power value=135.0 unit=W
+2026-07-10 11:54:47,019 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:47,360 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:47,360 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePower value=135
+2026-07-10 11:54:47,361 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=ActivePower raw=135.0 field=active_power value=135.0 unit=W
+2026-07-10 11:54:47,666 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:47,966 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:47,966 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2282
+2026-07-10 11:54:47,966 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2282.0 field=voltage value=2282.0 unit=V
+2026-07-10 11:54:48,245 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:48,572 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:48,573 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2301
+2026-07-10 11:54:48,573 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2301.0 field=voltage value=2301.0 unit=V
+2026-07-10 11:54:48,868 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:49,315 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:49,316 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=615
+2026-07-10 11:54:49,316 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:54:50,316 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:50,631 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:50,632 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=615
+2026-07-10 11:54:50,632 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:54:50,919 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:51,220 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:51,221 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2300
+2026-07-10 11:54:51,221 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2300.0 field=voltage value=2300.0 unit=V
+2026-07-10 11:54:51,528 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:51,801 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:51,802 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2281
+2026-07-10 11:54:51,802 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2281.0 field=voltage value=2281.0 unit=V
+2026-07-10 11:54:52,084 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:52,364 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:52,365 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2273
+2026-07-10 11:54:52,365 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2273.0 field=voltage value=2273.0 unit=V
+2026-07-10 11:54:52,640 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:52,917 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:52,918 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=405
+2026-07-10 11:54:52,918 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:54:52,918 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:52,918 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:52,918 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2272
+2026-07-10 11:54:52,919 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2272.0 field=voltage value=2272.0 unit=V
+2026-07-10 11:54:53,194 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:53,473 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:53,474 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2298
+2026-07-10 11:54:53,474 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2298.0 field=voltage value=2298.0 unit=V
+2026-07-10 11:54:53,750 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:54,022 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:54,023 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2280
+2026-07-10 11:54:54,023 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2280.0 field=voltage value=2280.0 unit=V
+2026-07-10 11:54:54,335 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:54,624 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:54,625 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=613
+2026-07-10 11:54:54,625 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:54:54,940 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:55,248 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:55,249 INFO Tuya raw DP device=a33330ac337066b6496rhb code=TotalEnergyConsumed value=29104
+2026-07-10 11:54:55,249 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:54:55,249 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:55,249 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:55,250 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedC value=9423
+2026-07-10 11:54:55,250 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:54:55,250 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:55,250 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:55,250 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageA value=2271
+2026-07-10 11:54:55,251 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=VoltageA raw=2271.0 field=voltage value=2271.0 unit=V
+2026-07-10 11:54:55,520 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:55,818 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:55,819 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageC value=2275
+2026-07-10 11:54:55,819 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=VoltageC raw=2275.0 field=voltage value=2275.0 unit=V
+2026-07-10 11:54:56,092 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:56,362 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:56,363 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageB value=2290
+2026-07-10 11:54:56,363 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=VoltageB raw=2290.0 field=voltage value=2290.0 unit=V
+2026-07-10 11:54:56,638 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:56,940 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:56,941 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentA value=9347
+2026-07-10 11:54:56,941 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=CurrentA raw=9347.0 field=current value=9347.0 unit=A
+2026-07-10 11:54:57,212 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:57,483 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:57,484 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentC value=8959
+2026-07-10 11:54:57,484 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=CurrentC raw=8959.0 field=current value=8959.0 unit=A
+2026-07-10 11:54:57,771 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:58,061 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:58,062 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentB value=8107
+2026-07-10 11:54:58,062 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=CurrentB raw=8107.0 field=current value=8107.0 unit=A
+2026-07-10 11:54:58,372 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:58,651 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:58,652 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Current value=26413
+2026-07-10 11:54:58,652 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=Current raw=26413.0 field=current value=26413.0 unit=A
+2026-07-10 11:54:58,927 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:59,203 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:59,204 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerC value=1741
+2026-07-10 11:54:59,204 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=ActivePowerC raw=1741.0 field=active_power value=1741.0 unit=W
+2026-07-10 11:54:59,511 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:54:59,781 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:54:59,782 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerA value=1854
+2026-07-10 11:54:59,782 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=ActivePowerA raw=1854.0 field=active_power value=1854.0 unit=W
+2026-07-10 11:55:00,058 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:00,359 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:00,359 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePower value=5070
+2026-07-10 11:55:00,360 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=ActivePower raw=5070.0 field=active_power value=5070.0 unit=W
+2026-07-10 11:55:00,639 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:00,913 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:00,914 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerB value=1477
+2026-07-10 11:55:00,914 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=ActivePowerB raw=1477.0 field=active_power value=1477.0 unit=W
+2026-07-10 11:55:01,214 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:01,508 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:01,509 INFO Tuya raw DP device=a33330ac337066b6496rhb code=TotalEnergyConsumed value=29106
+2026-07-10 11:55:01,509 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:01,509 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:01,509 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:01,510 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageA value=2270
+2026-07-10 11:55:01,510 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=VoltageA raw=2270.0 field=voltage value=2270.0 unit=V
+2026-07-10 11:55:01,784 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:02,057 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:02,058 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageB value=2289
+2026-07-10 11:55:02,058 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=VoltageB raw=2289.0 field=voltage value=2289.0 unit=V
+2026-07-10 11:55:02,332 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:02,613 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:02,613 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentA value=9354
+2026-07-10 11:55:02,613 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=CurrentA raw=9354.0 field=current value=9354.0 unit=A
+2026-07-10 11:55:02,939 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:03,242 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:03,242 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Current value=26433
+2026-07-10 11:55:03,242 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=Current raw=26433.0 field=current value=26433.0 unit=A
+2026-07-10 11:55:03,574 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:03,892 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:03,893 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentB value=8116
+2026-07-10 11:55:03,893 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=CurrentB raw=8116.0 field=current value=8116.0 unit=A
+2026-07-10 11:55:04,222 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:04,540 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:04,540 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentC value=8963
+2026-07-10 11:55:04,540 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=CurrentC raw=8963.0 field=current value=8963.0 unit=A
+2026-07-10 11:55:04,817 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:05,104 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:05,104 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePower value=5072
+2026-07-10 11:55:05,104 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=ActivePower raw=5072.0 field=active_power value=5072.0 unit=W
+2026-07-10 11:55:05,384 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:05,701 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:05,701 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerA value=1855
+2026-07-10 11:55:05,701 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=ActivePowerA raw=1855.0 field=active_power value=1855.0 unit=W
+2026-07-10 11:55:05,985 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:06,261 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:06,262 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedA value=11664
+2026-07-10 11:55:06,262 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:06,262 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:06,262 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:06,263 INFO Tuya raw DP device=a33330ac337066b6496rhb code=TotalEnergyConsumed value=29107
+2026-07-10 11:55:06,263 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:06,263 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:06,263 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:06,264 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedC value=9424
+2026-07-10 11:55:06,264 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:06,264 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:06,264 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:06,264 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageA value=2269
+2026-07-10 11:55:06,264 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=VoltageA raw=2269.0 field=voltage value=2269.0 unit=V
+2026-07-10 11:55:06,577 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:06,870 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:06,871 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageB value=2288
+2026-07-10 11:55:06,871 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=VoltageB raw=2288.0 field=voltage value=2288.0 unit=V
+2026-07-10 11:55:07,180 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:07,453 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:07,453 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=613
+2026-07-10 11:55:07,453 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:55:07,720 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:08,010 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:08,011 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=412
+2026-07-10 11:55:08,011 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:55:08,011 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:08,011 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:08,012 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2299
+2026-07-10 11:55:08,012 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2299.0 field=voltage value=2299.0 unit=V
+2026-07-10 11:55:08,390 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:08,663 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:08,663 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=614
+2026-07-10 11:55:08,663 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:55:08,942 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:09,217 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:09,218 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=614
+2026-07-10 11:55:09,218 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:55:09,518 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:09,843 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:09,845 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=405
+2026-07-10 11:55:09,845 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:55:09,845 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:09,845 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:09,846 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2273
+2026-07-10 11:55:09,846 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2273.0 field=voltage value=2273.0 unit=V
+2026-07-10 11:55:10,217 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:10,488 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:10,489 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2301
+2026-07-10 11:55:10,489 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2301.0 field=voltage value=2301.0 unit=V
+2026-07-10 11:55:10,767 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:11,117 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:11,117 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2282
+2026-07-10 11:55:11,117 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2282.0 field=voltage value=2282.0 unit=V
+2026-07-10 11:55:11,397 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:11,676 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:11,676 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=612
+2026-07-10 11:55:11,678 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=612.0 field=current value=612.0 unit=A
+2026-07-10 11:55:11,953 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:12,235 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:12,235 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=612
+2026-07-10 11:55:12,237 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=612.0 field=current value=612.0 unit=A
+2026-07-10 11:55:12,514 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:12,869 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:12,869 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=412
+2026-07-10 11:55:12,869 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:55:12,869 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:12,869 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:12,870 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=EnergyConsumedA value=8936
+2026-07-10 11:55:12,870 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:55:12,870 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:12,870 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:12,871 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2274
+2026-07-10 11:55:12,871 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2274.0 field=voltage value=2274.0 unit=V
+2026-07-10 11:55:13,147 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:13,426 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:13,427 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2281
+2026-07-10 11:55:13,427 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2281.0 field=voltage value=2281.0 unit=V
+2026-07-10 11:55:13,711 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:14,010 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:14,010 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=613
+2026-07-10 11:55:14,010 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:55:14,320 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:14,619 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:14,620 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=613
+2026-07-10 11:55:14,620 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:55:14,905 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:15,218 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:15,218 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2302
+2026-07-10 11:55:15,218 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2302.0 field=voltage value=2302.0 unit=V
+2026-07-10 11:55:15,494 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:15,767 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:15,768 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=614
+2026-07-10 11:55:15,768 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:55:16,074 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:16,350 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:16,351 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=614
+2026-07-10 11:55:16,351 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:55:16,633 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:16,908 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:16,908 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=613
+2026-07-10 11:55:16,909 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:55:17,241 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:17,513 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:17,513 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=613
+2026-07-10 11:55:17,514 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:55:17,815 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:18,093 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:18,094 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=TotalEnergyConsumed value=21359
+2026-07-10 11:55:18,094 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:55:18,094 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:18,094 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:18,094 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2273
+2026-07-10 11:55:18,095 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2273.0 field=voltage value=2273.0 unit=V
+2026-07-10 11:55:18,367 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:18,660 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:18,660 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=405
+2026-07-10 11:55:18,661 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:55:18,661 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:18,661 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:18,661 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2303
+2026-07-10 11:55:18,661 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2303.0 field=voltage value=2303.0 unit=V
+2026-07-10 11:55:18,988 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:19,283 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:19,284 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2280
+2026-07-10 11:55:19,284 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2280.0 field=voltage value=2280.0 unit=V
+2026-07-10 11:55:19,559 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:19,860 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:19,861 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageC value=2272
+2026-07-10 11:55:19,861 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=VoltageC raw=2272.0 field=voltage value=2272.0 unit=V
+2026-07-10 11:55:20,161 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:20,510 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:20,511 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentC value=8984
+2026-07-10 11:55:20,511 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=CurrentC raw=8984.0 field=current value=8984.0 unit=A
+2026-07-10 11:55:20,830 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:21,107 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:21,108 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Current value=26533
+2026-07-10 11:55:21,108 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=Current raw=26533.0 field=current value=26533.0 unit=A
+2026-07-10 11:55:21,444 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:21,735 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:21,735 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentB value=8172
+2026-07-10 11:55:21,735 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=CurrentB raw=8172.0 field=current value=8172.0 unit=A
+2026-07-10 11:55:22,007 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:22,299 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:22,299 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentA value=9377
+2026-07-10 11:55:22,300 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=CurrentA raw=9377.0 field=current value=9377.0 unit=A
+2026-07-10 11:55:22,573 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:22,870 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:22,870 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePower value=5098
+2026-07-10 11:55:22,870 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=ActivePower raw=5098.0 field=active_power value=5098.0 unit=W
+2026-07-10 11:55:23,144 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:23,446 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:23,447 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerB value=1488
+2026-07-10 11:55:23,447 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=ActivePowerB raw=1488.0 field=active_power value=1488.0 unit=W
+2026-07-10 11:55:23,717 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:23,996 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:23,996 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerA value=1865
+2026-07-10 11:55:23,997 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=ActivePowerA raw=1865.0 field=active_power value=1865.0 unit=W
+2026-07-10 11:55:24,298 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:24,572 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:24,573 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerC value=1745
+2026-07-10 11:55:24,573 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=ActivePowerC raw=1745.0 field=active_power value=1745.0 unit=W
+2026-07-10 11:55:24,841 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:25,172 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:25,173 INFO Tuya raw DP device=a33330ac337066b6496rhb code=PowerFactorA value=88
+2026-07-10 11:55:25,173 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=PowerFactorA raw=88.0 field=active_power value=88.0 unit=W
+2026-07-10 11:55:25,463 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:25,733 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:25,734 INFO Tuya raw DP device=a33330ac337066b6496rhb code=PowerFactorB value=80
+2026-07-10 11:55:25,734 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=PowerFactorB raw=80.0 field=active_power value=80.0 unit=W
+2026-07-10 11:55:26,054 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:26,330 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:26,331 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedB value=8019
+2026-07-10 11:55:26,331 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:26,331 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:26,331 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:26,332 INFO Tuya raw DP device=a33330ac337066b6496rhb code=TotalEnergyConsumed value=29108
+2026-07-10 11:55:26,332 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:26,332 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:26,332 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:26,333 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageB value=2289
+2026-07-10 11:55:26,333 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=VoltageB raw=2289.0 field=voltage value=2289.0 unit=V
+2026-07-10 11:55:26,611 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:26,893 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:26,894 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageC value=2273
+2026-07-10 11:55:26,894 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=VoltageC raw=2273.0 field=voltage value=2273.0 unit=V
+2026-07-10 11:55:27,195 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:27,474 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:27,475 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentB value=8229
+2026-07-10 11:55:27,475 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=CurrentB raw=8229.0 field=current value=8229.0 unit=A
+2026-07-10 11:55:27,816 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:28,089 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:28,089 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Current value=26706
+2026-07-10 11:55:28,090 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=Current raw=26706.0 field=current value=26706.0 unit=A
+2026-07-10 11:55:28,389 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:28,665 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:28,666 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentC value=9034
+2026-07-10 11:55:28,666 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=CurrentC raw=9034.0 field=current value=9034.0 unit=A
+2026-07-10 11:55:28,938 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:29,211 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:29,212 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentA value=9443
+2026-07-10 11:55:29,212 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=CurrentA raw=9443.0 field=current value=9443.0 unit=A
+2026-07-10 11:55:29,499 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:29,774 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:29,774 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerA value=1880
+2026-07-10 11:55:29,774 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=ActivePowerA raw=1880.0 field=active_power value=1880.0 unit=W
+2026-07-10 11:55:30,050 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:30,323 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:30,323 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerB value=1504
+2026-07-10 11:55:30,323 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=ActivePowerB raw=1504.0 field=active_power value=1504.0 unit=W
+2026-07-10 11:55:30,593 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:30,906 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:30,906 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerC value=1758
+2026-07-10 11:55:30,906 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=ActivePowerC raw=1758.0 field=active_power value=1758.0 unit=W
+2026-07-10 11:55:31,190 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:31,470 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:31,471 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePower value=5141
+2026-07-10 11:55:31,471 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=ActivePower raw=5141.0 field=active_power value=5141.0 unit=W
+2026-07-10 11:55:31,771 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:32,073 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:32,074 INFO Tuya raw DP device=a33330ac337066b6496rhb code=PowerFactorC value=86
+2026-07-10 11:55:32,074 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=PowerFactorC raw=86.0 field=active_power value=86.0 unit=W
+2026-07-10 11:55:32,364 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:32,695 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:32,695 INFO Tuya raw DP device=a33330ac337066b6496rhb code=TotalEnergyConsumed value=29110
+2026-07-10 11:55:32,696 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:32,696 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:32,696 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:32,696 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedA value=11665
+2026-07-10 11:55:32,696 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:32,696 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:32,697 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:32,697 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedC value=9425
+2026-07-10 11:55:32,697 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:32,697 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:32,697 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:32,698 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageB value=2288
+2026-07-10 11:55:32,698 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=VoltageB raw=2288.0 field=voltage value=2288.0 unit=V
+2026-07-10 11:55:32,972 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:33,245 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:33,245 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentA value=9489
+2026-07-10 11:55:33,245 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=CurrentA raw=9489.0 field=current value=9489.0 unit=A
+2026-07-10 11:55:33,526 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:33,803 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:33,803 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Current value=26825
+2026-07-10 11:55:33,803 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=Current raw=26825.0 field=current value=26825.0 unit=A
+2026-07-10 11:55:34,088 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:34,414 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:34,415 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentC value=9062
+2026-07-10 11:55:34,415 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=CurrentC raw=9062.0 field=current value=9062.0 unit=A
+2026-07-10 11:55:34,689 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:35,009 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:35,009 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentB value=8274
+2026-07-10 11:55:35,009 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=CurrentB raw=8274.0 field=current value=8274.0 unit=A
+2026-07-10 11:55:35,289 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:35,575 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:35,576 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePower value=5166
+2026-07-10 11:55:35,576 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=ActivePower raw=5166.0 field=active_power value=5166.0 unit=W
+2026-07-10 11:55:35,877 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:36,167 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:36,169 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerC value=1765
+2026-07-10 11:55:36,169 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=ActivePowerC raw=1765.0 field=active_power value=1765.0 unit=W
+2026-07-10 11:55:36,504 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:36,777 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:36,778 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerB value=1513
+2026-07-10 11:55:36,778 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=ActivePowerB raw=1513.0 field=active_power value=1513.0 unit=W
+2026-07-10 11:55:37,571 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:37,844 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:37,844 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerA value=1890
+2026-07-10 11:55:37,844 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=ActivePowerA raw=1890.0 field=active_power value=1890.0 unit=W
+2026-07-10 11:55:38,122 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:38,470 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:38,470 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Temperature value=412
+2026-07-10 11:55:38,470 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:38,472 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:38,472 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:38,472 INFO Tuya raw DP device=a33330ac337066b6496rhb code=TotalEnergyConsumed value=29111
+2026-07-10 11:55:38,472 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:38,472 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:38,472 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:38,473 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedB value=8020
+2026-07-10 11:55:38,473 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:38,473 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:38,473 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:38,474 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageC value=2272
+2026-07-10 11:55:38,474 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=VoltageC raw=2272.0 field=voltage value=2272.0 unit=V
+2026-07-10 11:55:38,748 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:39,019 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:39,019 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageA value=2268
+2026-07-10 11:55:39,019 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=VoltageA raw=2268.0 field=voltage value=2268.0 unit=V
+2026-07-10 11:55:39,316 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:39,587 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:39,588 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageB value=2287
+2026-07-10 11:55:39,588 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=VoltageB raw=2287.0 field=voltage value=2287.0 unit=V
+2026-07-10 11:55:39,914 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:40,211 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:40,211 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentA value=9478
+2026-07-10 11:55:40,211 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=CurrentA raw=9478.0 field=current value=9478.0 unit=A
+2026-07-10 11:55:40,492 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:40,788 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:40,788 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Current value=26819
+2026-07-10 11:55:40,788 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=Current raw=26819.0 field=current value=26819.0 unit=A
+2026-07-10 11:55:41,064 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:41,378 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:41,379 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentB value=8262
+2026-07-10 11:55:41,379 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=CurrentB raw=8262.0 field=current value=8262.0 unit=A
+2026-07-10 11:55:41,667 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:41,938 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:41,938 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentC value=9079
+2026-07-10 11:55:41,938 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=CurrentC raw=9079.0 field=current value=9079.0 unit=A
+2026-07-10 11:55:42,213 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:42,571 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:42,571 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerA value=1884
+2026-07-10 11:55:42,571 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=ActivePowerA raw=1884.0 field=active_power value=1884.0 unit=W
+2026-07-10 11:55:42,862 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:43,142 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:43,142 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerB value=1510
+2026-07-10 11:55:43,142 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=ActivePowerB raw=1510.0 field=active_power value=1510.0 unit=W
+2026-07-10 11:55:43,446 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:43,719 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:43,720 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePower value=5159
+2026-07-10 11:55:43,720 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=ActivePower raw=5159.0 field=active_power value=5159.0 unit=W
+2026-07-10 11:55:44,025 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:44,309 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:44,310 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Temperature value=405
+2026-07-10 11:55:44,310 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:44,310 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:44,310 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:44,310 INFO Tuya raw DP device=a33330ac337066b6496rhb code=TotalEnergyConsumed value=29113
+2026-07-10 11:55:44,310 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:44,310 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:44,310 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:44,311 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedA value=11666
+2026-07-10 11:55:44,311 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:44,311 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:44,311 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:44,312 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedC value=9426
+2026-07-10 11:55:44,312 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:44,312 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:44,312 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:44,312 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageC value=2271
+2026-07-10 11:55:44,312 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=VoltageC raw=2271.0 field=voltage value=2271.0 unit=V
+2026-07-10 11:55:44,587 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:44,887 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:44,887 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Current value=26780
+2026-07-10 11:55:44,888 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=Current raw=26780.0 field=current value=26780.0 unit=A
+2026-07-10 11:55:45,162 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:45,434 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:45,435 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentA value=9470
+2026-07-10 11:55:45,435 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=CurrentA raw=9470.0 field=current value=9470.0 unit=A
+2026-07-10 11:55:45,738 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:46,048 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:46,048 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentC value=9065
+2026-07-10 11:55:46,048 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=CurrentC raw=9065.0 field=current value=9065.0 unit=A
+2026-07-10 11:55:46,366 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:46,650 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:46,651 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentB value=8245
+2026-07-10 11:55:46,651 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=CurrentB raw=8245.0 field=current value=8245.0 unit=A
+2026-07-10 11:55:46,961 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:47,235 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:47,235 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePower value=5152
+2026-07-10 11:55:47,235 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=ActivePower raw=5152.0 field=active_power value=5152.0 unit=W
+2026-07-10 11:55:47,530 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:47,841 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:47,842 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerB value=1505
+2026-07-10 11:55:47,842 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=ActivePowerB raw=1505.0 field=active_power value=1505.0 unit=W
+2026-07-10 11:55:48,120 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:48,430 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:48,431 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerA value=1882
+2026-07-10 11:55:48,431 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=ActivePowerA raw=1882.0 field=active_power value=1882.0 unit=W
+2026-07-10 11:55:48,721 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:49,003 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:49,004 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Temperature value=412
+2026-07-10 11:55:49,004 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:49,004 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:49,004 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:49,005 INFO Tuya raw DP device=a33330ac337066b6496rhb code=EnergyConsumedB value=8021
+2026-07-10 11:55:49,005 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:49,005 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:49,005 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:49,005 INFO Tuya raw DP device=a33330ac337066b6496rhb code=TotalEnergyConsumed value=29114
+2026-07-10 11:55:49,005 WARNING No supported DP code was found in Tuya event for device=a33330ac337066b6496rhb
+2026-07-10 11:55:49,006 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:49,006 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:49,006 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageA value=2270
+2026-07-10 11:55:49,006 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=VoltageA raw=2270.0 field=voltage value=2270.0 unit=V
+2026-07-10 11:55:49,288 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:49,563 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:49,564 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageB value=2289
+2026-07-10 11:55:49,564 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=VoltageB raw=2289.0 field=voltage value=2289.0 unit=V
+2026-07-10 11:55:49,848 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:50,155 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:50,156 INFO Tuya raw DP device=a33330ac337066b6496rhb code=VoltageC value=2273
+2026-07-10 11:55:50,156 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=VoltageC raw=2273.0 field=voltage value=2273.0 unit=V
+2026-07-10 11:55:50,433 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:50,772 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:50,773 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePowerC value=1755
+2026-07-10 11:55:50,773 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=ActivePowerC raw=1755.0 field=active_power value=1755.0 unit=W
+2026-07-10 11:55:51,043 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:51,340 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:51,340 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentA value=9424
+2026-07-10 11:55:51,340 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=A code=CurrentA raw=9424.0 field=current value=9424.0 unit=A
+2026-07-10 11:55:51,643 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:51,936 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:51,937 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentC value=9016
+2026-07-10 11:55:51,937 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=C code=CurrentC raw=9016.0 field=current value=9016.0 unit=A
+2026-07-10 11:55:52,307 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:52,585 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:52,585 INFO Tuya raw DP device=a33330ac337066b6496rhb code=ActivePower value=5133
+2026-07-10 11:55:52,585 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=ActivePower raw=5133.0 field=active_power value=5133.0 unit=W
+2026-07-10 11:55:52,859 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:53,132 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:53,134 INFO Tuya raw DP device=a33330ac337066b6496rhb code=CurrentB value=8218
+2026-07-10 11:55:53,134 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=B code=CurrentB raw=8218.0 field=current value=8218.0 unit=A
+2026-07-10 11:55:53,438 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:53,713 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:53,714 INFO Tuya raw DP device=a33330ac337066b6496rhb code=Current value=26658
+2026-07-10 11:55:53,714 INFO Tuya converted DP device=a33330ac337066b6496rhb phase=total code=Current raw=26658.0 field=current value=26658.0 unit=A
+2026-07-10 11:55:54,009 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:54,288 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:54,289 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=614
+2026-07-10 11:55:54,289 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:55:54,568 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:54,898 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:54,898 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=614
+2026-07-10 11:55:54,898 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:55:55,179 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:55,477 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:55,477 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2281
+2026-07-10 11:55:55,478 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2281.0 field=voltage value=2281.0 unit=V
+2026-07-10 11:55:55,779 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:56,068 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:56,070 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2274
+2026-07-10 11:55:56,070 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2274.0 field=voltage value=2274.0 unit=V
+2026-07-10 11:55:56,394 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:56,701 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:56,701 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=613
+2026-07-10 11:55:56,701 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:55:56,971 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:57,253 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:57,254 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=613
+2026-07-10 11:55:57,254 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:55:57,528 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:57,802 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:57,802 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=412
+2026-07-10 11:55:57,803 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:55:57,803 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:57,803 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:57,803 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2273
+2026-07-10 11:55:57,803 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2273.0 field=voltage value=2273.0 unit=V
+2026-07-10 11:55:58,073 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:58,343 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:58,344 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2302
+2026-07-10 11:55:58,344 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2302.0 field=voltage value=2302.0 unit=V
+2026-07-10 11:55:58,632 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:58,905 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:58,906 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePowerA value=134
+2026-07-10 11:55:58,906 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=ActivePowerA raw=134.0 field=active_power value=134.0 unit=W
+2026-07-10 11:55:59,204 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:55:59,500 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:55:59,501 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePower value=134
+2026-07-10 11:55:59,501 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=ActivePower raw=134.0 field=active_power value=134.0 unit=W
+2026-07-10 11:55:59,796 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:00,118 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:00,118 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2272
+2026-07-10 11:56:00,118 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2272.0 field=voltage value=2272.0 unit=V
+2026-07-10 11:56:00,394 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:00,682 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:00,683 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2280
+2026-07-10 11:56:00,683 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2280.0 field=voltage value=2280.0 unit=V
+2026-07-10 11:56:01,010 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:01,301 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:01,302 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=615
+2026-07-10 11:56:01,302 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:56:01,584 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:01,867 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:01,868 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=615
+2026-07-10 11:56:01,868 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:56:02,171 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:02,495 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:02,496 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePowerA value=135
+2026-07-10 11:56:02,496 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=ActivePowerA raw=135.0 field=active_power value=135.0 unit=W
+2026-07-10 11:56:02,771 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:03,042 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:03,044 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePower value=135
+2026-07-10 11:56:03,044 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=ActivePower raw=135.0 field=active_power value=135.0 unit=W
+2026-07-10 11:56:03,334 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:03,614 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:03,615 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=405
+2026-07-10 11:56:03,615 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:03,615 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:03,615 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:03,616 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2274
+2026-07-10 11:56:03,616 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2274.0 field=voltage value=2274.0 unit=V
+2026-07-10 11:56:03,889 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:04,176 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:04,177 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2281
+2026-07-10 11:56:04,177 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2281.0 field=voltage value=2281.0 unit=V
+2026-07-10 11:56:04,492 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:04,791 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:04,792 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=616
+2026-07-10 11:56:04,792 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:05,069 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:05,387 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:05,388 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=616
+2026-07-10 11:56:05,388 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:05,666 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:05,976 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:05,977 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2275
+2026-07-10 11:56:05,977 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2275.0 field=voltage value=2275.0 unit=V
+2026-07-10 11:56:06,279 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:06,553 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:06,554 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2282
+2026-07-10 11:56:06,554 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2282.0 field=voltage value=2282.0 unit=V
+2026-07-10 11:56:06,852 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:07,165 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:07,166 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=614
+2026-07-10 11:56:07,166 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:56:07,638 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:07,913 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:07,914 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=614
+2026-07-10 11:56:07,914 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:56:08,191 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:08,466 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:08,466 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2301
+2026-07-10 11:56:08,466 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2301.0 field=voltage value=2301.0 unit=V
+2026-07-10 11:56:08,769 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:09,075 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:09,075 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2274
+2026-07-10 11:56:09,075 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2274.0 field=voltage value=2274.0 unit=V
+2026-07-10 11:56:09,376 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:09,657 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:09,658 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2281
+2026-07-10 11:56:09,658 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2281.0 field=voltage value=2281.0 unit=V
+2026-07-10 11:56:09,961 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:10,236 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:10,237 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=616
+2026-07-10 11:56:10,237 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:10,558 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:10,832 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:10,833 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=616
+2026-07-10 11:56:10,833 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:11,139 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:11,449 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:11,450 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=PowerFactorA value=96
+2026-07-10 11:56:11,450 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=PowerFactorA raw=96.0 field=active_power value=96.0 unit=W
+2026-07-10 11:56:11,777 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:12,048 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:12,048 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2300
+2026-07-10 11:56:12,048 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2300.0 field=voltage value=2300.0 unit=V
+2026-07-10 11:56:12,325 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:12,599 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:12,600 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=615
+2026-07-10 11:56:12,600 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:56:12,874 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:13,182 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:13,183 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=615
+2026-07-10 11:56:13,183 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:56:13,459 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:13,853 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:13,853 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=412
+2026-07-10 11:56:13,853 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:13,854 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:13,854 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:13,854 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=PowerFactorA value=97
+2026-07-10 11:56:13,854 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=PowerFactorA raw=97.0 field=active_power value=97.0 unit=W
+2026-07-10 11:56:14,130 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:14,471 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:14,472 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2299
+2026-07-10 11:56:14,472 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2299.0 field=voltage value=2299.0 unit=V
+2026-07-10 11:56:14,770 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:15,073 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:15,074 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2273
+2026-07-10 11:56:15,074 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2273.0 field=voltage value=2273.0 unit=V
+2026-07-10 11:56:15,356 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:15,647 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:15,648 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=616
+2026-07-10 11:56:15,648 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:15,925 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:16,199 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:16,199 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=616
+2026-07-10 11:56:16,199 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:16,489 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:16,766 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:16,768 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=405
+2026-07-10 11:56:16,768 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:16,768 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:16,768 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:16,769 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2297
+2026-07-10 11:56:16,769 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2297.0 field=voltage value=2297.0 unit=V
+2026-07-10 11:56:17,053 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:17,329 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:17,330 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2271
+2026-07-10 11:56:17,330 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2271.0 field=voltage value=2271.0 unit=V
+2026-07-10 11:56:17,604 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:17,874 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:17,874 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2279
+2026-07-10 11:56:17,875 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2279.0 field=voltage value=2279.0 unit=V
+2026-07-10 11:56:18,151 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:18,424 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:18,424 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=614
+2026-07-10 11:56:18,424 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:56:18,711 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:19,023 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:19,024 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=614
+2026-07-10 11:56:19,024 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:56:19,356 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:19,683 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:19,684 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=412
+2026-07-10 11:56:19,684 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:19,684 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:19,684 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:19,684 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2278
+2026-07-10 11:56:19,685 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2278.0 field=voltage value=2278.0 unit=V
+2026-07-10 11:56:19,967 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:20,239 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:20,240 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2296
+2026-07-10 11:56:20,240 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2296.0 field=voltage value=2296.0 unit=V
+2026-07-10 11:56:20,545 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:20,852 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:20,853 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=613
+2026-07-10 11:56:20,853 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:56:21,174 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:21,452 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:21,452 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=613
+2026-07-10 11:56:21,453 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:56:21,746 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:22,031 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:22,033 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=405
+2026-07-10 11:56:22,033 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:22,033 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:22,033 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:22,033 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2297
+2026-07-10 11:56:22,033 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2297.0 field=voltage value=2297.0 unit=V
+2026-07-10 11:56:22,309 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:22,589 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:22,590 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=617
+2026-07-10 11:56:22,590 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=617.0 field=current value=617.0 unit=A
+2026-07-10 11:56:22,864 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:23,147 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:23,148 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=617
+2026-07-10 11:56:23,148 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=617.0 field=current value=617.0 unit=A
+2026-07-10 11:56:23,444 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:23,727 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:23,728 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2270
+2026-07-10 11:56:23,728 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2270.0 field=voltage value=2270.0 unit=V
+2026-07-10 11:56:23,999 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:24,306 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:24,307 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2296
+2026-07-10 11:56:24,307 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2296.0 field=voltage value=2296.0 unit=V
+2026-07-10 11:56:24,589 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:24,869 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:24,870 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=616
+2026-07-10 11:56:24,870 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:25,185 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:25,460 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:25,460 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=616
+2026-07-10 11:56:25,461 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:25,736 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:26,031 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:26,031 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2277
+2026-07-10 11:56:26,031 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2277.0 field=voltage value=2277.0 unit=V
+2026-07-10 11:56:26,349 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:26,625 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:26,626 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=614
+2026-07-10 11:56:26,626 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:56:26,940 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:27,227 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:27,228 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=614
+2026-07-10 11:56:27,228 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:56:27,545 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:27,873 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:27,874 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePowerA value=134
+2026-07-10 11:56:27,874 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=ActivePowerA raw=134.0 field=active_power value=134.0 unit=W
+2026-07-10 11:56:28,156 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:28,437 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:28,438 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePower value=134
+2026-07-10 11:56:28,438 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=ActivePower raw=134.0 field=active_power value=134.0 unit=W
+2026-07-10 11:56:28,744 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:29,024 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:29,025 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=412
+2026-07-10 11:56:29,025 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:29,025 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:29,025 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:29,025 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2278
+2026-07-10 11:56:29,026 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2278.0 field=voltage value=2278.0 unit=V
+2026-07-10 11:56:29,306 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:29,609 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:29,609 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2271
+2026-07-10 11:56:29,609 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2271.0 field=voltage value=2271.0 unit=V
+2026-07-10 11:56:29,946 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:30,228 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:30,229 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=613
+2026-07-10 11:56:30,229 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:56:30,535 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:30,817 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:30,817 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=613
+2026-07-10 11:56:30,817 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=613.0 field=current value=613.0 unit=A
+2026-07-10 11:56:31,113 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:31,412 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:31,413 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePowerA value=135
+2026-07-10 11:56:31,413 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=ActivePowerA raw=135.0 field=active_power value=135.0 unit=W
+2026-07-10 11:56:31,690 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:31,963 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:31,964 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePower value=135
+2026-07-10 11:56:31,964 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=ActivePower raw=135.0 field=active_power value=135.0 unit=W
+2026-07-10 11:56:32,235 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:32,515 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:32,515 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=405
+2026-07-10 11:56:32,516 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:32,516 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:32,516 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:32,516 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=CurrentA value=22
+2026-07-10 11:56:32,517 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=CurrentA raw=22.0 field=current value=22.0 unit=A
+2026-07-10 11:56:32,815 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:33,113 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:33,113 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=Current value=22
+2026-07-10 11:56:33,114 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=total code=Current raw=22.0 field=current value=22.0 unit=A
+2026-07-10 11:56:33,384 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:33,661 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:33,661 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=VoltageC value=2285
+2026-07-10 11:56:33,662 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=C code=VoltageC raw=2285.0 field=voltage value=2285.0 unit=V
+2026-07-10 11:56:33,940 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:34,220 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:34,220 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=Temperature value=456
+2026-07-10 11:56:34,220 WARNING No supported DP code was found in Tuya event for device=a3d5c4466084d3a257zpsb
+2026-07-10 11:56:34,220 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:34,220 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:34,221 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=PowerFactorA value=100
+2026-07-10 11:56:34,221 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=PowerFactorA raw=100.0 field=active_power value=100.0 unit=W
+2026-07-10 11:56:34,502 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:34,797 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:34,798 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=Current value=1252
+2026-07-10 11:56:34,798 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=total code=Current raw=1252.0 field=current value=1252.0 unit=A
+2026-07-10 11:56:35,099 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:35,390 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:35,391 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=CurrentA value=1252
+2026-07-10 11:56:35,391 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=CurrentA raw=1252.0 field=current value=1252.0 unit=A
+2026-07-10 11:56:35,683 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:35,954 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:35,954 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=PowerFactorA value=98
+2026-07-10 11:56:35,954 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=PowerFactorA raw=98.0 field=active_power value=98.0 unit=W
+2026-07-10 11:56:36,224 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:36,503 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:36,503 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=CurrentA value=20
+2026-07-10 11:56:36,503 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=CurrentA raw=20.0 field=current value=20.0 unit=A
+2026-07-10 11:56:36,804 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:37,085 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:37,086 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=Current value=20
+2026-07-10 11:56:37,086 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=total code=Current raw=20.0 field=current value=20.0 unit=A
+2026-07-10 11:56:37,381 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:37,655 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:37,656 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=VoltageA value=2277
+2026-07-10 11:56:37,656 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=VoltageA raw=2277.0 field=voltage value=2277.0 unit=V
+2026-07-10 11:56:37,952 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:38,284 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:38,284 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=VoltageB value=2297
+2026-07-10 11:56:38,285 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=B code=VoltageB raw=2297.0 field=voltage value=2297.0 unit=V
+2026-07-10 11:56:38,584 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:38,896 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:38,896 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=VoltageC value=2284
+2026-07-10 11:56:38,896 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=C code=VoltageC raw=2284.0 field=voltage value=2284.0 unit=V
+2026-07-10 11:56:39,196 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:39,514 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:39,515 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=Temperature value=448
+2026-07-10 11:56:39,515 WARNING No supported DP code was found in Tuya event for device=a3d5c4466084d3a257zpsb
+2026-07-10 11:56:39,515 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:39,515 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:39,516 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=PowerFactorA value=81
+2026-07-10 11:56:39,516 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=PowerFactorA raw=81.0 field=active_power value=81.0 unit=W
+2026-07-10 11:56:39,790 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:40,065 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:40,066 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=Current value=1251
+2026-07-10 11:56:40,066 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=total code=Current raw=1251.0 field=current value=1251.0 unit=A
+2026-07-10 11:56:40,355 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:40,629 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:40,630 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=CurrentA value=1251
+2026-07-10 11:56:40,630 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=CurrentA raw=1251.0 field=current value=1251.0 unit=A
+2026-07-10 11:56:40,943 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:41,253 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:41,253 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=VoltageA value=2305
+2026-07-10 11:56:41,254 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=VoltageA raw=2305.0 field=voltage value=2305.0 unit=V
+2026-07-10 11:56:41,557 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:41,864 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:41,864 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=VoltageB value=2305
+2026-07-10 11:56:41,864 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=B code=VoltageB raw=2305.0 field=voltage value=2305.0 unit=V
+2026-07-10 11:56:42,138 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:42,414 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:42,414 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=VoltageC value=2307
+2026-07-10 11:56:42,414 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=C code=VoltageC raw=2307.0 field=voltage value=2307.0 unit=V
+2026-07-10 11:56:42,703 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:42,986 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:42,987 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=Current value=9
+2026-07-10 11:56:42,987 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=total code=Current raw=9.0 field=current value=9.0 unit=A
+2026-07-10 11:56:43,318 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:43,590 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:43,591 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=CurrentA value=9
+2026-07-10 11:56:43,591 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=CurrentA raw=9.0 field=current value=9.0 unit=A
+2026-07-10 11:56:43,879 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:44,191 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:44,191 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=Temperature value=441
+2026-07-10 11:56:44,191 WARNING No supported DP code was found in Tuya event for device=a3a155d331222e11a9wc0x
+2026-07-10 11:56:44,191 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:44,191 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:44,192 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=PowerFactorA value=97
+2026-07-10 11:56:44,192 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=PowerFactorA raw=97.0 field=active_power value=97.0 unit=W
+2026-07-10 11:56:44,491 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:44,843 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:44,843 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=Temperature value=456
+2026-07-10 11:56:44,843 WARNING No supported DP code was found in Tuya event for device=a3d5c4466084d3a257zpsb
+2026-07-10 11:56:44,843 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:44,843 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:44,844 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=PowerFactorA value=93
+2026-07-10 11:56:44,844 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=PowerFactorA raw=93.0 field=active_power value=93.0 unit=W
+2026-07-10 11:56:45,114 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:45,445 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:45,447 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=VoltageB value=2296
+2026-07-10 11:56:45,447 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=B code=VoltageB raw=2296.0 field=voltage value=2296.0 unit=V
+2026-07-10 11:56:45,720 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:45,993 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:45,995 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2274
+2026-07-10 11:56:45,995 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2274.0 field=voltage value=2274.0 unit=V
+2026-07-10 11:56:46,300 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:46,574 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:46,575 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2299
+2026-07-10 11:56:46,575 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2299.0 field=voltage value=2299.0 unit=V
+2026-07-10 11:56:46,856 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:47,138 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:47,139 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2281
+2026-07-10 11:56:47,139 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2281.0 field=voltage value=2281.0 unit=V
+2026-07-10 11:56:47,408 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:47,679 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:47,679 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=614
+2026-07-10 11:56:47,679 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:56:47,958 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:48,229 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:48,230 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=614
+2026-07-10 11:56:48,230 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=614.0 field=current value=614.0 unit=A
+2026-07-10 11:56:48,523 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:48,794 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:48,795 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=412
+2026-07-10 11:56:48,795 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:48,795 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:48,795 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:48,796 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2272
+2026-07-10 11:56:48,796 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2272.0 field=voltage value=2272.0 unit=V
+2026-07-10 11:56:49,069 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:49,345 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:49,345 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2280
+2026-07-10 11:56:49,345 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2280.0 field=voltage value=2280.0 unit=V
+2026-07-10 11:56:49,647 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:49,919 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:49,920 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=615
+2026-07-10 11:56:49,920 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:56:50,193 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:50,464 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:50,464 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=615
+2026-07-10 11:56:50,465 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:56:50,790 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:51,088 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:51,089 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Temperature value=405
+2026-07-10 11:56:51,089 WARNING No supported DP code was found in Tuya event for device=a3fb11ff8d31169ec592va
+2026-07-10 11:56:51,089 INFO Wrote 0 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:51,089 INFO Wrote 0 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:51,090 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2300
+2026-07-10 11:56:51,090 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2300.0 field=voltage value=2300.0 unit=V
+2026-07-10 11:56:51,407 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:51,683 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:51,684 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2273
+2026-07-10 11:56:51,684 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2273.0 field=voltage value=2273.0 unit=V
+2026-07-10 11:56:51,965 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:52,267 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:52,267 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2281
+2026-07-10 11:56:52,267 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2281.0 field=voltage value=2281.0 unit=V
+2026-07-10 11:56:52,538 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:52,810 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:52,810 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=617
+2026-07-10 11:56:52,810 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=617.0 field=current value=617.0 unit=A
+2026-07-10 11:56:53,088 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:53,407 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:53,407 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=617
+2026-07-10 11:56:53,408 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=617.0 field=current value=617.0 unit=A
+2026-07-10 11:56:53,718 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:53,989 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:53,989 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=PowerFactorA value=96
+2026-07-10 11:56:53,989 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=PowerFactorA raw=96.0 field=active_power value=96.0 unit=W
+2026-07-10 11:56:54,274 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:54,558 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:54,558 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2299
+2026-07-10 11:56:54,558 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2299.0 field=voltage value=2299.0 unit=V
+2026-07-10 11:56:54,831 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:55,110 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:55,111 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=616
+2026-07-10 11:56:55,111 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:55,383 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:55,655 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:55,656 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=616
+2026-07-10 11:56:55,656 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=616.0 field=current value=616.0 unit=A
+2026-07-10 11:56:56,039 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:56,384 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:56,385 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=PowerFactorA value=97
+2026-07-10 11:56:56,385 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=PowerFactorA raw=97.0 field=active_power value=97.0 unit=W
+2026-07-10 11:56:56,654 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:56,931 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:56,932 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageB value=2298
+2026-07-10 11:56:56,932 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=B code=VoltageB raw=2298.0 field=voltage value=2298.0 unit=V
+2026-07-10 11:56:57,240 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:57,538 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:57,539 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageA value=2272
+2026-07-10 11:56:57,539 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=VoltageA raw=2272.0 field=voltage value=2272.0 unit=V
+2026-07-10 11:56:57,871 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:58,145 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:58,145 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=VoltageC value=2280
+2026-07-10 11:56:58,146 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=C code=VoltageC raw=2280.0 field=voltage value=2280.0 unit=V
+2026-07-10 11:56:58,420 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:58,746 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:58,747 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=Current value=615
+2026-07-10 11:56:58,747 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=total code=Current raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:56:59,023 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:59,293 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:59,293 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=CurrentA value=615
+2026-07-10 11:56:59,293 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=CurrentA raw=615.0 field=current value=615.0 unit=A
+2026-07-10 11:56:59,568 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:56:59,862 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:56:59,863 INFO Tuya raw DP device=a3fb11ff8d31169ec592va code=ActivePowerA value=134
+2026-07-10 11:56:59,863 INFO Tuya converted DP device=a3fb11ff8d31169ec592va phase=A code=ActivePowerA raw=134.0 field=active_power value=134.0 unit=W
+2026-07-10 11:57:00,163 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:00,435 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:00,436 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=VoltageA value=2276
+2026-07-10 11:57:00,436 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=VoltageA raw=2276.0 field=voltage value=2276.0 unit=V
+2026-07-10 11:57:00,710 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:00,989 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:00,989 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=VoltageA value=2315
+2026-07-10 11:57:00,989 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=VoltageA raw=2315.0 field=voltage value=2315.0 unit=V
+2026-07-10 11:57:01,325 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:01,627 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:01,628 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=VoltageB value=2316
+2026-07-10 11:57:01,628 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=B code=VoltageB raw=2316.0 field=voltage value=2316.0 unit=V
+2026-07-10 11:57:01,929 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:02,204 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:02,206 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=VoltageC value=2318
+2026-07-10 11:57:02,206 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=C code=VoltageC raw=2318.0 field=voltage value=2318.0 unit=V
+2026-07-10 11:57:02,492 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:02,794 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:02,796 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=CurrentA value=1252
+2026-07-10 11:57:02,796 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=CurrentA raw=1252.0 field=current value=1252.0 unit=A
+2026-07-10 11:57:03,065 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:03,421 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:03,422 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=Current value=1252
+2026-07-10 11:57:03,422 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=total code=Current raw=1252.0 field=current value=1252.0 unit=A
+2026-07-10 11:57:03,705 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:04,009 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:04,010 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=Current value=7
+2026-07-10 11:57:04,010 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=total code=Current raw=7.0 field=current value=7.0 unit=A
+2026-07-10 11:57:04,286 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:04,561 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:04,561 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=CurrentA value=7
+2026-07-10 11:57:04,562 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=CurrentA raw=7.0 field=current value=7.0 unit=A
+2026-07-10 11:57:04,871 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:05,143 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:05,143 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=ActivePowerA value=279
+2026-07-10 11:57:05,145 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=ActivePowerA raw=279.0 field=active_power value=279.0 unit=W
+2026-07-10 11:57:05,446 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:05,721 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:05,722 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=ActivePower value=279
+2026-07-10 11:57:05,722 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=total code=ActivePower raw=279.0 field=active_power value=279.0 unit=W
+2026-07-10 11:57:05,999 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:06,285 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:06,286 INFO Tuya raw DP device=a3d5c4466084d3a257zpsb code=PowerFactorA value=81
+2026-07-10 11:57:06,286 INFO Tuya converted DP device=a3d5c4466084d3a257zpsb phase=A code=PowerFactorA raw=81.0 field=active_power value=81.0 unit=W
+2026-07-10 11:57:06,585 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:06,923 INFO Wrote 1 snapshot point(s) to InfluxDB measurement=tuya_power_snapshot bucket=tuya_test_bucket
+2026-07-10 11:57:06,923 INFO Tuya raw DP device=a3a155d331222e11a9wc0x code=PowerFactorA value=98
+2026-07-10 11:57:06,924 INFO Tuya converted DP device=a3a155d331222e11a9wc0x phase=A code=PowerFactorA raw=98.0 field=active_power value=98.0 unit=W
+2026-07-10 11:57:07,239 INFO Wrote 1 raw point(s) to InfluxDB measurement=tuya_power_raw bucket=tuya_test_bucket
+2026-07-10 11:57:07.521 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-0, s5nmw9ankp5rm3r7pt3r-sub, 0] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-0
+2026-07-10 11:57:07.521 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-1, s5nmw9ankp5rm3r7pt3r-sub, 1] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-1
+2026-07-10 11:57:07.521 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-2, s5nmw9ankp5rm3r7pt3r-sub, 2] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-2
+2026-07-10 11:57:07.522 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-3, s5nmw9ankp5rm3r7pt3r-sub, 3] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-3
+2026-07-10 11:57:07.522 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-4, s5nmw9ankp5rm3r7pt3r-sub, 4] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-4
+2026-07-10 11:57:07.522 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-5, s5nmw9ankp5rm3r7pt3r-sub, 5] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-5
+2026-07-10 11:57:07.522 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-6, s5nmw9ankp5rm3r7pt3r-sub, 6] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-6
+2026-07-10 11:57:07.522 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-7, s5nmw9ankp5rm3r7pt3r-sub, 7] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-7
+2026-07-10 11:57:07.522 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-8, s5nmw9ankp5rm3r7pt3r-sub, 8] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-8
+2026-07-10 11:57:07.522 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-9, s5nmw9ankp5rm3r7pt3r-sub, 9] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-9
+2026-07-10 11:57:07.522 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1271 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-10, s5nmw9ankp5rm3r7pt3r-sub, 10] Closing consumer for topic persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-10
+2026-07-10 11:57:07.577 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-0, s5nmw9ankp5rm3r7pt3r-sub, 0] Closed consumer 0
+2026-07-10 11:57:07.577 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-2, s5nmw9ankp5rm3r7pt3r-sub, 2] Closed consumer 2
+2026-07-10 11:57:07.577 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-1, s5nmw9ankp5rm3r7pt3r-sub, 1] Closed consumer 1
+2026-07-10 11:57:07.577 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-4, s5nmw9ankp5rm3r7pt3r-sub, 4] Closed consumer 4
+2026-07-10 11:57:07.577 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-10, s5nmw9ankp5rm3r7pt3r-sub, 10] Closed consumer 10
+2026-07-10 11:57:07.577 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-6, s5nmw9ankp5rm3r7pt3r-sub, 6] Closed consumer 6
+2026-07-10 11:57:07.577 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-3, s5nmw9ankp5rm3r7pt3r-sub, 3] Closed consumer 3
+2026-07-10 11:57:07.579 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-8, s5nmw9ankp5rm3r7pt3r-sub, 8] Closed consumer 8
+2026-07-10 11:57:07.579 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-5, s5nmw9ankp5rm3r7pt3r-sub, 5] Closed consumer 5
+2026-07-10 11:57:07.579 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-7, s5nmw9ankp5rm3r7pt3r-sub, 7] Closed consumer 7
+2026-07-10 11:57:07.579 INFO  [18496] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ConsumerImpl:1255 | [persistent://s5nmw9ankp5rm3r7pt3r/out/event-partition-9, s5nmw9ankp5rm3r7pt3r-sub, 9] Closed consumer 9
+2026-07-10 11:57:07.580 INFO  [14280] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientImpl:666 | Closing Pulsar client with 0 producers and 0 consumers
+2026-07-10 11:57:07.580 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:1320 | [10.31.12.178:64347 -> 47.84.180.255:7285] Connection disconnected (refCnt: 1)
+2026-07-10 11:57:07.580 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:1320 | [10.31.12.178:64350 -> 47.84.180.255:7285] Connection disconnected (refCnt: 2)
+2026-07-10 11:57:07.581 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:1320 | [10.31.12.178:64349 -> 47.84.180.255:7285] Connection disconnected (refCnt: 1)
+2026-07-10 11:57:07.581 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:1320 | [10.31.12.178:64348 -> 47.84.180.255:7285] Connection disconnected (refCnt: 2)
+2026-07-10 11:57:07.581 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:1320 | [10.31.12.178:64351 -> 47.84.180.255:7285] Connection disconnected (refCnt: 1)
+2026-07-10 11:57:07.581 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:275 | [10.31.12.178:64351 -> 47.84.180.255:7285] Destroyed connection to pulsar://172.25.0.83:6650-0
+2026-07-10 11:57:07.581 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:275 | [10.31.12.178:64348 -> 47.84.180.255:7285] Destroyed connection to pulsar://172.25.0.78:6650-0
+2026-07-10 11:57:07.581 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:275 | [10.31.12.178:64349 -> 47.84.180.255:7285] Destroyed connection to pulsar://172.25.0.77:6650-0
+2026-07-10 11:57:07.582 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:275 | [10.31.12.178:64350 -> 47.84.180.255:7285] Destroyed connection to pulsar://172.25.0.76:6650-0
+2026-07-10 11:57:07.582 INFO  [35044] D:\a\pulsar-client-cpp\pulsar-client-cpp\lib\ClientConnection:275 | [10.31.12.178:64347 -> 47.84.180.255:7285] Destroyed connection to pulsar+ssl://mqe-sg.iotbing.com:7285-0
+2026-07-10 11:57:07,582 INFO Shutdown requested
