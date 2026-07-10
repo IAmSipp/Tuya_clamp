@@ -1,0 +1,4 @@
+pulsar-client==3.12.0
+python-dotenv==1.2.2
+influxdb-client==1.50.0
+pycryptodome==3.23.0
